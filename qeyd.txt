@@ -1,0 +1,1 @@
+dersde Ulvi muellimin verdiyi tapsiriqla Array tapsiriginin 1-cisi eynidir.
